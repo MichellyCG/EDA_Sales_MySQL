@@ -1,6 +1,6 @@
-**Exploratory Data Analysis (EDA) in Tableau**
+**Exploratory Data Analysis (EDA) in MySql**
 
-This repository contains an Exploratory Data Analysis (EDA) project conducted in Tableau, 
+This repository contains an Exploratory Data Analysis (EDA) project conducted in MySql, 
 focusing on analyzing sales data. The project covers various aspects of the sales dataset,
 including statistical analysis, revenue calculations, trend analysis, and customer insights.
 
